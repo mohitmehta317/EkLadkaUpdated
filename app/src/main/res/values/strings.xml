@@ -1,0 +1,50 @@
+<resources>
+  <string name="app_name">EkLadka</string>
+  <string name="p1">"Ek ladka hai vo ek ladki ko chahta hai bas bolne mei itraata hai,,\npyaar se nafrat hai usko lekin andar hi andar pyaar vo jatata hai,,\ngam nahi hai usko ki saath nahi hai vo tab bhi khushi khushi akela vo reh jaata hai,,\nzindagi bahut khushnaseeb rahi hai abhi tak aage bhi bas yahi vo chahta hai.. "</string>
+  <string name="p2">uss ladke ke liye pyaar nafrat hai,,\ndarasal pyaar uski ek mannat hai,,\nuski dunia alag hai bohot uske liye pyaar vo nahi jo ek dusre ko roz roz bol kar jataya jaaye,,\nuske liye pyaar vo hai jab vo aapke bure dinki daastan apne achedin ki daastan ko bhula kar sunta rahe aur aapko sambhale,,\npyaar ko vo issi liye nahi maanta,,\nkyunki pyaar ko vo nahi jaanta,,\njis ladki ko chah usne har us ladki se dur vo raha hai,,\ntabhi pyaar ko vo inkaar karta raha hai,,\nvo maanta hai jab har khushi ki vajah hi vo ban jaaye,,\ntabhi pyaar par vishwas kiya jaaye,,\ntabhi pyaar par vishwas kiya jaaye,,\nnahi toh pyaar toh kya hai nafrat hai nafrat hi usse maana jaaye!!\n</string>
+  <string name="p3">uss ladke ka log istemal karte hai,,\nkhaali vakt mei yaad usse kiya karte hai!!\nvo sab kuch samjh kar bhi kuch nahi bolta hai,,\nchup reh kar bhi bohot kuch keh deta hai,,\npata nahi kyu aaj kal vo ladka itna sochta kaise rehta hai!!\nlekin ab nahi sochega vo kisi ke baare mei,,\nlagta hai samajh gaya vo ki kaise log hai iss dunia mei!!\n
+
+  </string>
+  <string name="p4">vo ladka fir akela sa rehne laga,,\nlogon se door vo jaane laga,,\nnahi chahta tha vo ki koi usi zindagi mei aaye,,\naur tabah karke chala jaaye,,\nissi liye usne logon se door rehna thik samjha,,\npata nahi kin uljhano mei tha vo uljha!!\njin logon ke liye hamesha vo aage raha,,\nbas unhi logon ki vajah se bhatakta vo raha!!\n
+  </string>
+  <string name="p5">jitna dukhi vo hota hai,,\nutni hi khushi vo dikhaata hai!!\nek hi toh dikkat hai uski dukh byan vo karna nahi chahta,,\naur mohobbat bayan vo kar nahi paata!!\nsab kuch khud mei chipaaye vo hai rehta,,\ntabhi chup vo rehta kuch nahi kehta,,\nakele vo sab kuch sehta,,\nfir bhi pata nahi kaise vo khush hai rehta!!\n
+</string>
+  <string name="p6">badalne laga hai vo,,\ninsaano ki jagah vaadiyon se pyaar karne laga hai vo!!\nmusaafir bana firta hai,,\ndagmaga kar fir zor se girta hai,,\nfir khada hoke aage badhta hai!!\npata nahi itna kaise vo likhta hai,,\nkhyaalo mei kyu khoya dikhta hai,,\nkoi toh usse pehchaanta hoga,,\nuske andar ki baat vo jaanta hoga!!\n
+  </string>
+  <string name="p7">
+    azaad parinda hai vo,,\ndarta nahi hai zindagu se ab vo,,\ndunia se nahi khud ke khayaalo se ladta hai vo!!\nsoch uski bilkul sahi hai,,\njiske liye vo zruri nahi unki zrurat usse nahi hai!!\nkhaali raaston se usse pyaar hai,,\naur akela chalta hai vo kyunki khud hi vo khud ka yaar hai!!\n
+
+  </string>
+  <string name="p8">pyaar se use pyaar hai,,\naur nashe ka usko nasha hai,,\nzindagi uski ek tamasha hai!!\nhar lamha khoya vo rehta hai,,\njab bhi koi baat krne aaye vo khamosh ho jaata hai,,\nvo khud ko khud se harata hai,,\npata nahi kya vo chahta hai,,\nshayad pyaar ka vo bahana banata hai,,\nuss ladki ko nahi khud ko hi vo chahta hai!!\n
+  </string>
+  <string name="p9">zindagi ki kashmakash mei ulajhne laga hai vo,,\nmushkilo se jhujhne laga hai vo,,\nhaarta nahi khud ko harata hai vo,,\nsochta hai ki haar jaayega vo,,\npata nahi kin raahon par chalne laga hai vo!!\nlagta hai ek din apni dunia vo basa lega,,\njahan khud ko nahi zindagi ki kashmakash ko vo hara dega!!\n
+</string>
+  <string name="p10">vo aaj mei jeeta hai aane vaale kal ki soch kar,,\nae zindagi ab tu usse tang mat kar,,\nhar pal hota hai uske mann mei darr,,\nki kaisa hoga uske aage kaa safar!!\npata nahi kaisa sa rishta hai uska apno se,,\nhar apna usse chhod jaata hai,,\ntabhi vo khud hi sabse door rehna chahta hai!!\nakela ghumne laga hai vo,,\napno se toh vo ho hi gaya hai door, ab khud ko khud ke khone se bachana chahta hai vo!!\n
+  </string>
+  <string name="p11">"ek mod aa gaya uski zindagi mei,,\nvajood bhi naa raha uska dost bhi naa rahe uske,,\nfir bhi khud ko dhundne nikla vo dunia mei!!\nnaa dhund paaya khud ko vo aur aakhir khatam karni padi usse vo kahaani,,\njiski vajah se vo khud khatm hone laga hai,,\nlogon ke chakkr mei akele vo rehne laga hai!!\nsocha toh nahi tha ki aise bhi kabhi hoga,,\nlekin pata nahi uski kismat likhne waala usse kya chahta hoga!!\n"</string>
+  <string name="heading">Ek Ladka</string>
+  <string name="heading2">Thoughts</string>
+  <string name="back">Back</string>
+  <string name="next">Next</string>
+  <string name="previous">Previous</string>
+  <string name="finish">Finish</string>
+  <string name="t1">"Chalo aaj ek kahani sunaata hun, Zindagi ke baare mei toh suna hi hoga, bohot badi hai lekin kab khatm ho jaati hai pata hi nahi lagtaa!! Ek Zindagi thi sabke paas apni apni ek ek thi sab kuch naa kuch karte the usse jeene ke liye vo kabhi pareshan karke rakhti thi toh kabhi khushiyan deti thi, har sapne ko pura karne ki umeed deti thi, fir pata nahi kaisa saa daur aaya technology vaala zindagi ne sabse samya cheenna shuru kar diya, saare kashmakash mei rehne lage bohot samya tak aise hi chalta raha fir  zindagi ne budhaapa diya saath hi samya bhi hadd se jyaada, lekin tak kissi ke paas himmat nahi bachi thi jeene ki fir dheere dheere zindagu khatm ho gyi!!  "</string>
+  <string name="t2">Zindagi ki uljhano mei sab uljhe hai,, \nRoz Zindagi se ladte hai kabhi jeette hai toh kabhi haarte hai,, \nsamya nahi hai kissi ke paas,, \nIssi liye sirf janamdin par yaad kiya karte hai!!</string>
+  <string name="t3">Ek ek karke sab chale gaye Zindagi se, \nfir ek din aisa aaya jab uski Zindagi se Zindagi hi chali gayi!!</string>
+  <string name="t4">Toota dil hai, \nToota mai hun, \nTooti Zindagi hai, \nFir bhi chehre par ek khushi liye chal raha hun, \nUss khushi ka bhi pata nahi kab usse mai gawan dun!!</string>
+  <string name="t5">"Adhuri Khwaish hai toh bol kar chali gayi vo lekin vo nahi jaanti thi ki khwaaishein fir bhi puri ho jaati hai lekin mai vo chaand ban gya hun jo kabhi suraj nahi ban sakta!! "</string>
+  <string name="t6">Baadlon ki tarah vo chale jaayenge aur tum chand ki tarah akele reh jaaoge!!</string>
+  <string name="t7">Sone se sukoon toh milta hai, lekin sone ke liye bhi ek sukoon chaiye hota hai!!</string>
+  <string name="t8">Kya le kar aaye the kya le kar jaayenge, \nZindagi laaye the maut le kar jaayenge!!</string>
+  <string name="t9">Kyun samajh nahi aa rahi hai,,\nKyun ye zindagi mushkil hoti jaa rahi hai,,\nKya log kam the uljhaane ke liye,,\nJo ab ye Zindagi bhi uljha rahi hai!!</string>
+  <string name="t10">Mulaaqat bhi kar li baarish se aur izhaar bhi kar diya lekin \"Meri dor baadlon k haath mei hai\" ye bol kar baarish ne inkaar bhi kar diya!!</string>
+  <string name="t11">Zindagi nahi sapna hai ye,,\nJab uthenge tab jannat hogi!!</string>
+  <string name="t12">Kab tak ye sannata rahega, \nkab tak aisa chalta rahega, \nkab tak khud ko khud mei dhundte rahenge?? \nZindagi ek chuppan chupaai hai jahan khushiyan aur chain chhupe hai agar galti se unhe dhund bhi lo toh dukh dard aakar dhappa karke chale jaate hai!!</string>
+  <string name="t13">Hone do jo ho raha hai acha hai jo bhi hai ant bhi acha hi hoga!!</string>
+  <string name="story">Story</string>
+  <string name="contact">Contact</string>
+  <string name="email">E-mail ~ </string>
+  <string name="social">Social Media ~ </string>
+  <string name="name">Mohit Mehta</string>
+
+</resources>
